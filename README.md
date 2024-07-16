@@ -1,3 +1,3 @@
-# zzz-stuff
+# zzz-mesh-10
 ---
-textures & meshes; coverage is about 90%, meshes are not perfect; have fun :)
+meshes are weird, not perfect and probably missing a few of them but it's a start i guess
